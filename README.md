@@ -12,7 +12,8 @@
 ## Problems
 ### Problem 1
 We want to make a basic game of Tic-Tac-Toe as outlined [here](https://en.wikipedia.org/wiki/Tic-tac-toe) ! 
-- Please implement a complete basic game of Tic-Tac-Toe
+- Please implement a complete basic game of Tic-Tac-Toe.
+    HINT: Use a simple html grid where X and O for the game are just string values.
 - Please use React and TypeScript throughout, if you know TailwindCSS, we have preconfigured it so you can use it as a bonus.
 - Both players will play out of the same application, it is sufficient to just switch the state of the current player each time a move is played, assume that unless a game is over, at the end of a turn it will ALWAYS be the next players turn.
 - Once a game is completed, I should be able to start another game.
